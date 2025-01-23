@@ -232,6 +232,12 @@
     background-color: orange;
     border-radius: 30px;
 }
+.left-arrow:hover{
+    background-color: aqua;
+}
+.right-arrow:hover{
+    background-color: aqua;
+}
 .right{
     transform: rotate(180deg) ;
 }
